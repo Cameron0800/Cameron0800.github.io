@@ -5,28 +5,29 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <style>
-    body { font-family: Arial; margin: 40px; }
+    body { font-family: Arial, sans-serif; margin: 40px; }
     h1 { color: #2a2a2a; }
     .project { margin-bottom: 20px; }
   </style>
 </head>
 <body>
-  <h1>Your Name</h1>
-  <p>Engineer | Project Enthusiast | Problem Solver</p>
+  <h1>Cameron Little</h1>
+  <p>Mechanical Engineering Student | CAD | Rocketry Enthusiast</p>
 
   <h2>Projects</h2>
+
   <div class="project">
-    <h3>Project Title 1</h3>
-    <p>Brief description, your role, tools used.</p>
-    <a href="https://github.com/yourusername/project1">View on GitHub</a>
+    <h3>Robotic Arm Design</h3>
+    <p>Designed and simulated a 4-DOF robotic arm in SolidWorks. Used FEA to optimize joint stress tolerances.</p>
+    <a href="https://github.com/camlittle/robotic-arm-design">View on GitHub</a>
   </div>
 
   <div class="project">
-    <h3>Project Title 2</h3>
-    <p>Another project description.</p>
+    <h3>Thermal Management System</h3>
+    <p>Collaborated on a team to develop a passive thermal control system for a CubeSat. Used MATLAB and Simulink for simulation.</p>
   </div>
 
   <h2>Contact</h2>
-  <p>Email: yourname@example.com</p>
+  <p>Email: cameron.little@example.com</p>
 </body>
 </html>
